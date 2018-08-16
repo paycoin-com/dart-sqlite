@@ -1,5 +1,6 @@
 name: sqlite
 version: 0.4.2
+sdk: ">=2.0.0-dev.61.0 <3.0.0"
 description: SQLite bindings for Dart
 homepage: https://github.com/pylaligand/dart-sqlite
 authors:
